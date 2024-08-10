@@ -1,0 +1,5 @@
+from npmjs.com
+
+inquirer , qr-image
+
+npm i inquirer qr-image
